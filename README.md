@@ -8,7 +8,6 @@ Click [here](https://paulserenrosso.com/#/) to access my portfolio.
 
 ## Key Projects
 
-'Portfolio','Deep Learning','Boids','Bubbles'
 
 ### Esquirel 
 Capture the point MOBA with ambushes and squirrels  
