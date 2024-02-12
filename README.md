@@ -27,7 +27,7 @@ Fight-Taunt-Action mobile game with iconic boss
 
 ### Memory of Hope
 Zelda-like exploring the grief through wonderful world  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
 **Github Link** : https://github.com/PaulSerenRosso/MemoryOfHope/tree/Preview-Main-3
 
 ## Solo Projects
