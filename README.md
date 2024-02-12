@@ -16,51 +16,38 @@ Capture the point MOBA with ambushes and squirrels
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Boby 
-Integrated casual arcade game to web application for gamification
+Integrated casual arcade game to web application for gamification  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Jab 
-Fight-Taunt-Action mobile game with iconic boss
+Fight-Taunt-Action mobile game with iconic boss  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Memory of Hope
-Zelda-like exploring the grief through wonderful world
+Zelda-like exploring the grief through wonderful world  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
-
-
-
-                      'Capture the point MOBA with ambushes and squirrels',
-                      'Integrated casual arcade game to web application for gamification',
-                      'Fight-Taunt-Action mobile game with iconic boss',
-                       'Zelda-like exploring the grief through wonderful world'
-
-'A 3D reusable responsive website',
-'Race of cars, which learning and remembering',
-  'Simulation of RTS units using multi-threading'
-'Shader using RayMarching and SDF'
-
 
 ## Solo Projects
 
 ### Portfolio
-A 3D reusable responsive website
+A 3D reusable responsive website  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Deep Learning
-Race of cars, which learning and remembering
+Race of cars, which learning and remembering  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Boids
-Simulation of RTS units using multi-threading
+Simulation of RTS units using multi-threading  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
 
 ### Bubbles
-Shader using RayMarching and SDF
+Shader using RayMarching and SDF  
 **Github Link** : https://paulserenrosso.com/#/  
 **Portfolio Link** : https://paulserenrosso.com/#/
