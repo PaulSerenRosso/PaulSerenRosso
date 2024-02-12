@@ -1,16 +1,66 @@
-### Hi there 👋
+# Welcome! I'am **Paul**, a Junior Gameplay Programmer!
 
-<!--
-**PaulSerenRosso/PaulSerenRosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’am searching an internship of 4 months from May.
+Creative and organize, I try my best to turn the team’s wills into games.
+Very curious, I'm always seeking new technical challenges and learning from my co-workers.
 
-Here are some ideas to get you started:
+Click [here](https://paulserenrosso.com/#/) to access my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+
+'Portfolio','Deep Learning','Boids','Bubbles'
+
+### Esquirel 
+Capture the point MOBA with ambushes and squirrels  
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Boby 
+Integrated casual arcade game to web application for gamification
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Jab 
+Fight-Taunt-Action mobile game with iconic boss
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Memory of Hope
+Zelda-like exploring the grief through wonderful world
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+
+
+                      'Capture the point MOBA with ambushes and squirrels',
+                      'Integrated casual arcade game to web application for gamification',
+                      'Fight-Taunt-Action mobile game with iconic boss',
+                       'Zelda-like exploring the grief through wonderful world'
+
+'A 3D reusable responsive website',
+'Race of cars, which learning and remembering',
+  'Simulation of RTS units using multi-threading'
+'Shader using RayMarching and SDF'
+
+
+## Solo Projects
+
+### Portfolio
+A 3D reusable responsive website
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Deep Learning
+Race of cars, which learning and remembering
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Boids
+Simulation of RTS units using multi-threading
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
+
+### Bubbles
+Shader using RayMarching and SDF
+**Github Link** : https://paulserenrosso.com/#/  
+**Portfolio Link** : https://paulserenrosso.com/#/
