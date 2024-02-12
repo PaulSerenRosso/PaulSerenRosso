@@ -1,5 +1,6 @@
 # Welcome! I'am **Paul**, a Junior Gameplay Programmer!
 
+I'am fourth student in Gameplay Programming at Rubika.
 I’am searching an internship of 4 months from May.
 Creative and organize, I try my best to turn the team’s wills into games.
 Very curious, I'm always seeking new technical challenges and learning from my co-workers.
