@@ -12,42 +12,42 @@ Click [here](https://paulserenrosso.com/#/) to access my portfolio.
 
 ### Esquirel 
 Capture the point MOBA with ambushes and squirrels  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Boby 
 Integrated casual arcade game to web application for gamification  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Jab 
 Fight-Taunt-Action mobile game with iconic boss  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Memory of Hope
 Zelda-like exploring the grief through wonderful world  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ## Solo Projects
 
 ### Portfolio
 A 3D reusable responsive website  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Deep Learning
 Race of cars, which learning and remembering  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Boids
 Simulation of RTS units using multi-threading  
-**Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
+**Portfolio Link** : https://paulserenrosso.com/#/  
+**Github Link** : https://paulserenrosso.com/#/
 
 ### Bubbles
 Shader using RayMarching and SDF  
+**Portfolio Link** : https://paulserenrosso.com/#/   
 **Github Link** : https://paulserenrosso.com/#/  
-**Portfolio Link** : https://paulserenrosso.com/#/
