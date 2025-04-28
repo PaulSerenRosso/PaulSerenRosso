@@ -9,27 +9,27 @@ Click [here](https://paulserenrosso.com/) to access my portfolio.
 
 ## [WIP] RSM
 Semi-cooperative social horror game for 4 players  
-**Portfolio Link** : https://paulserenrosso.com/rsm  
-**Github Link** : https://github.com/PaulSerenRosso/Rsm
+**Portfolio Link**: https://paulserenrosso.com/rsm  
+**Github Link**: https://github.com/PaulSerenRosso/Rsm
 
 ## It's not Rocket Science!
 A physics-based 2v2 party game featuring collaboration and sabotage  
-**Portfolio Link** : https://paulserenrosso.com/inrs  
-**Github Link** : https://github.com/PaulSerenRosso/It-s-not-rocket-science
+**Portfolio Link**: https://paulserenrosso.com/inrs  
+**Github Link**: https://github.com/PaulSerenRosso/It-s-not-rocket-science
 
 ## Esquirel 
 Capture the point MOBA with ambushes and squirrels  
-**Portfolio Link** : https://paulserenrosso.com/esquirel   
-**Github Link** : https://github.com/PaulSerenRosso/Esquirel/tree/Master
+**Portfolio Link**: https://paulserenrosso.com/esquirel   
+**Github Link**: https://github.com/PaulSerenRosso/Esquirel/tree/Master
 
 ## Boby 
 A web-based casual arcade game designed for gamification  
-**Portfolio Link** : https://paulserenrosso.com/boby    
-**Github Link** : https://github.com/PaulSerenRosso/BricoleQuiPeut
+**Portfolio Link**: https://paulserenrosso.com/boby    
+**Github Link**: https://github.com/PaulSerenRosso/BricoleQuiPeut
 
 ## Jab 
 Fight-Taunt-Action mobile game with iconic boss  
-**Portfolio Link** : https://paulserenrosso.com/jab   
-**Github Link** : https://github.com/PaulSerenRosso/Jab
+**Portfolio Link**: https://paulserenrosso.com/jab   
+**Github Link**: https://github.com/PaulSerenRosso/Jab
 
 
