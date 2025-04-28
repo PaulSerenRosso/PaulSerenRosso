@@ -15,7 +15,7 @@ Semi-cooperative social horror game for 4 players
 ## It's not Rocket Science!
 A physics-based 2v2 party game featuring collaboration and sabotage  
 **Portfolio Link** : https://paulserenrosso.com/inrs  
-**Github Link** : https://github.com/PaulSerenRosso/Esquirel/tree/Master  
+**Github Link** : https://github.com/PaulSerenRosso/It-s-not-rocket-science
 
 ## Esquirel 
 Capture the point MOBA with ambushes and squirrels  
@@ -30,6 +30,6 @@ A web-based casual arcade game designed for gamification
 ## Jab 
 Fight-Taunt-Action mobile game with iconic boss  
 **Portfolio Link** : https://paulserenrosso.com/jab   
-**Github Link** : https://github.com/PaulSerenRosso/MobileGame/tree/main
+**Github Link** : https://github.com/PaulSerenRosso/Jab
 
 
