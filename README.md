@@ -1,4 +1,4 @@
-# Welcome! I am **Paul**, a Gameplay Programmer.
+# Welcome! I am **Paul**, a Gameplay Programmer.👋
 
 I am searching an internship of 6-months from 9 June.
 Resilient and organize, I strive to develop games that make the team proud of and players satisfied.
