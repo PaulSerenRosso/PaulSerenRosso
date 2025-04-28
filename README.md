@@ -7,8 +7,6 @@ Very curious, I always am seeking new technical challenges and learning from eac
 
 Click [here](https://paulserenrosso.com/) to access my portfolio.
 
-## Key Projects
-
 ## [WIP] RSM
 Semi-cooperative social horror game for 4 players  
 **Portfolio Link** : https://paulserenrosso.com/rsm  
@@ -19,17 +17,17 @@ A physics-based 2v2 party game featuring collaboration and sabotage
 **Portfolio Link** : https://paulserenrosso.com/inrs  
 **Github Link** : https://github.com/PaulSerenRosso/Esquirel/tree/Master  
 
-### Esquirel 
+## Esquirel 
 Capture the point MOBA with ambushes and squirrels  
 **Portfolio Link** : https://paulserenrosso.com/esquirel   
 **Github Link** : https://github.com/PaulSerenRosso/Esquirel/tree/Master
 
-### Boby 
+## Boby 
 A web-based casual arcade game designed for gamification  
 **Portfolio Link** : https://paulserenrosso.com/boby    
 **Github Link** : https://github.com/PaulSerenRosso/BricoleQuiPeut
 
-### Jab 
+## Jab 
 Fight-Taunt-Action mobile game with iconic boss  
 **Portfolio Link** : https://paulserenrosso.com/jab   
 **Github Link** : https://github.com/PaulSerenRosso/MobileGame/tree/main
