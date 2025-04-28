@@ -10,7 +10,7 @@ Click [here](https://paulserenrosso.com/) to access my portfolio.
 ## [WIP] RSM
 Semi-cooperative social horror game for 4 players  
 **Portfolio Link** : https://paulserenrosso.com/rsm  
-**Github Link** : https://github.com/PaulSerenRosso/Esquirel/tree/Master  
+**Github Link** : https://github.com/PaulSerenRosso/Rsm
 
 ## It's not Rocket Science!
 A physics-based 2v2 party game featuring collaboration and sabotage  
