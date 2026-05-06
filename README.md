@@ -7,7 +7,7 @@ I will be available to start in **August 2026** !
 
 Click [here](https://paulserenrosso.com/) to access my portfolio.
 
-## [WIP] RSM
+## RSM
 Semi-cooperative social horror game for 4 players  
 **Portfolio Link**: https://paulserenrosso.com/rsm  
 **Github Link**: https://github.com/PaulSerenRosso/Rsm
