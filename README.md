@@ -1,8 +1,8 @@
 # Welcome! I am **Paul**, a Gameplay Programmer.👋
 
-I am searching an internship of 6-months from 9 June.
-Resilient and organize, I strive to develop games that make the team proud of and players satisfied.
-Very curious, I always am seeking new technical challenges and learning from each other.
+Hello ! Resilient and organized, I strive to develop games that make the team proud and satisfy players.
+Very curious, I am always seeking new technical challenges and learning from each other. 
+I will be available to start in **August 2026** !
 
 
 Click [here](https://paulserenrosso.com/) to access my portfolio.
