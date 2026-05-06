@@ -1,8 +1,8 @@
 # Welcome! I am **Paul**, a Gameplay Programmer.👋
 
-Hello ! Resilient and organized, I strive to develop games that make the team proud and satisfy players.
+Hello! Resilient and organized, I strive to develop games that make the team proud and satisfy players.
 Very curious, I am always seeking new technical challenges and learning from each other. 
-I will be available to start in **August 2026** !
+I will be available to start in **August 2026**!
 
 
 Click [here](https://paulserenrosso.com/) to access my portfolio.
