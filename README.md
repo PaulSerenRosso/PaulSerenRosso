@@ -5,7 +5,7 @@ Very curious, I am always seeking new technical challenges and learning from eac
 I will be available to start in **August 2026**!
 
 
-Click [here](https://paulserenrosso.com/) to access my portfolio. and [here]([https://paulserenrosso.com/](https://github.com/PaulSerenRosso/portfolio)) for its codebase.
+Click [here](https://paulserenrosso.com/) to access my portfolio. and [here](https://github.com/PaulSerenRosso/portfolio) for its codebase.
 
 ## RSM
 Semi-cooperative social horror game for 4 players  
