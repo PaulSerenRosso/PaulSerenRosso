@@ -1,8 +1,9 @@
 # Welcome! I am **Paul**, a Gameplay Programmer.👋
 
-Hello! Resilient and organized, I strive to develop games that make the team proud and satisfy players.
-Very curious, I am always seeking new technical challenges and learning from each other. 
-I will be available to start in **August 2026**!
+Hello! Resilient and organized, I want to develop fun games that leave a lasting impact on players. Very curious, I am always seeking new technical challenges and learning from each other. 
+I will be available to start immediately for FTC, permanent and freelance opportunities!
+
+I believe video games need to be fun to create memorable experiences, but I also see them as a powerful medium capable of inspiring growth, raising awareness, and helping players engage with meaningful subjects and real-life challenges. I wish to create experiences that not only entertain but also encourage reflection, empathy, and positive change for players and society.
 
 
 Click [here](https://paulserenrosso.com/) to access my portfolio. and [here](https://github.com/PaulSerenRosso/portfolio) for its codebase.
