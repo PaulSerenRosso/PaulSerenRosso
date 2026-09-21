@@ -1,4 +1,4 @@
-# Welcome! I am **Paul**, a Gameplay Programmer.👋
+# Welcome! I am **Paul**, a UI/Gameplay Programmer.👋
 
 Hello! Resilient and organized, I want to develop fun games that leave a lasting impact on players. Very curious, I am always seeking new technical challenges and learning from each other. 
 I will be available to start immediately for FTC, permanent and freelance opportunities!
